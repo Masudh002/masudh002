@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Masudh</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h1 align="center">Hello 👋, I'm Masudh</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 📫 How to reach me **masudchireya@gmail.com**
 
