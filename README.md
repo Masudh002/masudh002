@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Masudh</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 📫 How to reach me **masudchireya@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,4 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masudh002&show_icons=true&locale=en&layout=compact" alt="masudh002" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masudh002&show_icons=true&locale=en" alt="masudh002" /></p>
+- 📫 How to reach me **masudchireya@gmail.com**
+
+
